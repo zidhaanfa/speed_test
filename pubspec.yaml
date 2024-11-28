@@ -44,6 +44,11 @@ flutter:
       ios:
         pluginClass: SpeedTestPlugin
 
+  # speed_test:
+  #   git:
+  #     url: git@github.com:zidhaanfa/speed_test.git
+  #     ref: main
+
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
